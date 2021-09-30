@@ -1,6 +1,7 @@
 
 # Case Study Proposal: Microlending via Kiva
 
+![Tala Logo](source/Tala-logo-horizontal.png "Tala logo")
 
 
 ## What Is It
